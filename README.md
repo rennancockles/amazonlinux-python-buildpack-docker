@@ -7,7 +7,7 @@
 
 ## Supported tags and respective `Dockerfile` links
 
-* [`python3.9`, `latest` _(Dockerfile)_](hhttps://github.com/rennancockles/amazonlinux-python-buildpack-docker/blob/master/docker-images/python3.9.dockerfile)
+* [`python3.9`, `latest` _(Dockerfile)_](https://github.com/rennancockles/amazonlinux-python-buildpack-docker/blob/master/docker-images/python3.9.dockerfile)
 * [`python3.8` _(Dockerfile)_](https://github.com/rennancockles/amazonlinux-python-buildpack-docker/blob/master/docker-images/python3.8.dockerfile)
 * [`python3.7`, _(Dockerfile)_](https://github.com/rennancockles/amazonlinux-python-buildpack-docker/blob/master/docker-images/python3.7.dockerfile)
 * [`python3.6` _(Dockerfile)_](https://github.com/rennancockles/amazonlinux-python-buildpack-docker/blob/master/docker-images/python3.6.dockerfile)
