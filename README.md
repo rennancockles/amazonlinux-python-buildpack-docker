@@ -14,7 +14,7 @@
 
 # amazonlinux-python-buildpack
 
-**Docker** image with **uWSGI** and **Nginx** for web applications in **Python 3.6** and above, and **Python 2.7** (as **Flask**) in a single container. Optionally with Alpine Linux.
+**Amazon Linux** base compilation image for applications in **Python 3.6** and above.
 
 ## Description
 
