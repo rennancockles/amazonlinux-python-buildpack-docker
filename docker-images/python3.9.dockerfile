@@ -12,6 +12,7 @@ yum -y install \
   openssl-devel \
   bzip2-devel \
   libffi-devel \
+  sqlite-devel \
   zip \
   git \
   which
